@@ -97,7 +97,7 @@ public class Specialist {
         this.email = email;
     }
 
-    public Boolean getActive() {
+    public Boolean isActive() {
         return active;
     }
 
